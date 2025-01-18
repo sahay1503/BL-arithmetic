@@ -1,5 +1,7 @@
 public class main{
-
+	public int sub(int a,intb){
+		return a-b;
+	}
 	public int add(int a, int b){
 		return a+b;
 	}
