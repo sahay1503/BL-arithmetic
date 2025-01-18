@@ -1,4 +1,8 @@
 public class main{
+
+	public int multiply(int a, int b){
+		return a*b;
+	}
 	public int sub(int a,intb){
 		return a-b;
 	}
